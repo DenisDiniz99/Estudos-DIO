@@ -1,0 +1,14 @@
+*** Algumas extensões para o VS Code ***
+
+Dracula Oficial - Temas para o VS Code.
+
+LiveServer - Cria um localhost da aplicação e toda alteração salva no projeto e atualizada automaticamente.
+
+VS Intellicode - utiliza IA para criar autocompletes referentes ao código.
+
+Beautify - Identador de código para Json, Html, Css, Sass e Javascript.
+
+Rainbow Brackets - Utiliza cores para os colchetes utilizados no código facilitando identificar se um colchete aberto foi realmente fechado.
+
+VS Code Icons - Ícones para de extensões para variadas linguagens, pastas ou arquivos.
+
